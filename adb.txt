@@ -1,0 +1,15 @@
+adb命令：
+adb devices 检测设备是否连接
+adb shell pm list packages 列出所有应用（包括系统应用）
+adb shell pm list packages -3 仅列出用户安装的第三方应用
+adb shell pm list packages -s 仅显示系统应用
+adb shell pm list packages -f 显示应用关联的APK路径
+adb shell dumpsys package  [com.bankcomm.maidanba]查看应用详细信息[包名]获取版本号、权限、安装路径等：
+adb uninstall [com.bankcomm.maidanba] 卸载[包名]
+adb shell pm clear [com.bankcomm.maidanba] 清除应用数据[包名]
+################################################
+honor 系统应用
+com.hihonor.gameassistant
+com.hihonor.quickgame
+com.hihonor.magicavatar
+com.hihonor.magazine
