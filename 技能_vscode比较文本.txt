@@ -1,0 +1,38 @@
+在 VS Code 中比较两份文件的不同，可以通过以下几种方法实现：
+方法 1：使用 VS Code 内置的文件比较功能
+VS Code 本身提供了文件比较功能，可以快速比较两份文件的不同。
+步骤：
+打开第一个文件
+在 VS Code 中打开第一个文件。
+打开第二个文件
+在 VS Code 中打开第二个文件。
+使用快捷键比较文件
+按下快捷键 Ctrl + Shift + P（Windows/Linux）或 Cmd + Shift + P（Mac），打开命令面板。
+选择“Compare Active File With...”
+在命令面板中输入 Compare Active File With... 并选择该命令。
+选择第二个文件
+在弹出的文件选择对话框中，选择第二个文件。
+查看比较结果
+VS Code 会在一个新的编辑器窗口中显示两份文件的比较结果，不同之处会以高亮的方式显示出来。
+方法 2：使用插件增强比较功能
+如果需要更强大的文件比较功能，可以安装 VS Code 的插件，比如 "Compare Folders" 或 "File Compare"。
+步骤：
+安装插件
+打开 VS Code 的扩展视图（快捷键 Ctrl + Shift + X 或 Cmd + Shift + X），搜索并安装 "Compare Folders" 或 "File Compare"。
+使用插件比较文件
+对于 "Compare Folders" 插件，可以比较两个文件夹中的文件差异。
+对于 "File Compare" 插件，可以直接比较两个文件的不同。
+查看结果
+插件会提供更详细的比较结果，包括文件内容的差异、文件大小、修改时间等。
+方法 3：使用外部工具
+如果 VS Code 的内置功能或插件无法满足需求，可以使用外部工具（如 Beyond Compare 或 Meld）进行比较。
+步骤：
+安装外部工具
+下载并安装外部比较工具，例如 Beyond Compare 或 Meld。
+配置 VS Code 使用外部工具
+在 VS Code 中，打开设置（快捷键 Ctrl + , 或 Cmd + ,），搜索 diff，找到 diff.tool 设置，将其值设置为外部工具的名称（如 beyondcompare 或 meld）。
+使用外部工具比较文件
+在 VS Code 中，选择 Compare Active File With...，然后选择第二个文件，VS Code 会调用外部工具进行比较。
+总结
+如果只是简单的文件比较，使用 VS Code 的内置功能即可。
+如果需要更强大的功能，可以安装插件或使用外部工具。
