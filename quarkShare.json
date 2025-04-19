@@ -1,0 +1,125 @@
+[
+  {
+    "name": "我的网盘",
+    "folders": [
+      {
+        "shareId": "",
+        "folder": "0"
+      }
+    ]
+  },
+  {
+    "name": "爱奇艺_万古神话",
+    "folders": [
+      {
+        "shareId": "de91d699f005",
+        "folder": "6656744513f340108f022134cf1634df"
+      }
+    ]
+  },
+  //哔哩哔哩
+  {
+    "name": "凡人修仙传",
+    "folders": [
+      {
+        "shareId": "d61723cab576",
+        "folder": "02f80f7a5d014a3d8dc2c1ddcb771b70"
+      }
+    ]
+  },
+  {
+    "name": "凡人修仙传",
+    "folders": [
+      {
+        "shareId": "51c0b38c0b7b",
+        "folder": "0"
+      }
+    ]
+  },
+  {
+    "name": "凡人修仙传",
+    "folders": [
+      {
+        "shareId": "d1fc0c1b1661",
+        "folder": "0"
+      }
+    ]
+  },
+
+  //腾讯视频
+  {
+    "name": "腾讯视频_斗破苍穹",
+    "folders": [
+      {
+        "shareId": "6a6162e71fde",
+        "folder": "0d5c2cec78b448d68115a27fb37fe5ed"
+      }
+    ]
+  },
+  {
+    "name": "腾讯视频_斗破苍穹",
+    "folders": [
+      {
+        "shareId": "bd4603c41b3f",
+        "folder": "0"
+      }
+    ]
+  },
+  {
+    "name": "腾讯视频_炼气十万年",
+    "folders": [
+      {
+        "shareId": "d62d1cd2fc1a",
+        "folder": "0"
+      }
+    ]
+  },
+
+  {
+    "name": "腾讯视频_仙逆",
+    "folders": [
+      {
+        "shareId": "cbfb7c4782dc",
+        "folder": "0"
+      }
+    ]
+  },
+  //优酷
+  {
+    "name": "优酷_师兄啊师兄",
+    "folders": [
+      {
+        "shareId": "3f4718bae56c",
+        "folder": "0"
+      }
+    ]
+  },
+  {
+    "name": "优酷_师兄啊师兄",
+    "folders": [
+      {
+        "shareId": "909ceb4994ef",
+        "folder": "0"
+      }
+    ]
+  },
+  //短剧
+  {
+    "name": "短剧合集1",
+    "folders": [
+      {
+        "shareId": "885fd4ba2d92",
+        "folder": "81ca012717cb45228f237e26d8da20c8"
+      }
+    ]
+  },
+  {
+    "name": "短剧合集2",
+    "folders": [
+      {
+        "shareId": "a1cda418984f",
+        "folder": "7e09c18d7f8045f983eca086be8ddb8f"
+      }
+    ]
+  }
+]
